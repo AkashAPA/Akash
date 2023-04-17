@@ -4,6 +4,6 @@
 
   News website, <br />build using HTML, CSS, and JavaScript.
 
-  <a href="https://https://news-ap-p.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://news-ap-p.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
